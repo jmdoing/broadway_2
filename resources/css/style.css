@@ -1,19 +1,17 @@
 body {
 text-align: center;
+font-family: Helvetica;
 }
   h1 {
-  font-family: Helvetica;
   font-weight: Bold;
   font-size: 70px;
   color: white;
 }
 
 p {
-  font-family: Helvetica;
   font-size: 14px;
 }
 .navigation {
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
 }
@@ -23,7 +21,6 @@ p {
 }
 
 h3 {
-  font-family: Helvetica;
   font-size: 23;
   font-weight: Bold;
 }
